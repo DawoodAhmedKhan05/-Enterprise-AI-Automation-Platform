@@ -1,0 +1,6 @@
+{
+  "name": "NEXGEN AI",
+  "description": "NEXGEN AI: Centralized enterprise automation platform integrating AI workflows, document intelligence, intelligent email triage, business copilot, and multi-system connectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
